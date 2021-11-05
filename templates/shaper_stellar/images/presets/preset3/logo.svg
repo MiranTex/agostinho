@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="32px" viewBox="0 0 118 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0.743383291%" y1="1.08188403%" x2="50%" y2="72.7675781%" id="linearGradient-1">
+            <stop stop-color="#FFC61F" offset="0%"></stop>
+            <stop stop-color="#FF5648" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Creative-Agency" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-167.000000, -21.000000)">
+            <g id="Header">
+                <g id="Logo" transform="translate(167.000000, 23.000000)">
+                    <g>
+                        <polyline id="Path-2" stroke="url(#linearGradient-1)" stroke-width="2" points="91.4125977 13.3769531 93.6239598 2 96.3061943 10.3829187 111.774579 3.18766852 98.6079259 14.9383511 105.368405 26.7539063 93.6239598 20.0676569 88 24.5326418"></polyline>
+                        <text id="Stellar" font-family="Montserrat-Bold, Montserrat" font-size="28" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="0" y="27">Stellar</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

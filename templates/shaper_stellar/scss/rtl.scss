@@ -1,0 +1,308 @@
+/**
+ * @package Helix Ultimate Framework
+ * @author JoomShaper https://www.joomshaper.com
+ * @copyright Copyright (c) 2010 - 2018 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or Later
+*/
+
+@import 'bs4-rtl';
+
+body.rtl {
+	text-align: right;
+	
+	.sp-scroll-up {
+		right: auto;
+		left: 30px;
+	}
+	
+	.article-details {
+		.link-edit-article {
+			right: auto;
+			left: 0;
+		}
+	}
+	
+	// Menu
+	.sp-megamenu-parent {
+		float: left;
+		>li {
+			
+			&.sp-has-child>a:before,
+			&.sp-has-child>span:before{
+				font-family: "Font Awesome 5 Free";
+font-weight: 900;
+				content: "\f107";
+				float: left;
+				margin-right: 7px;
+			}
+			
+			.sp-menu-badge {		
+				&.sp-menu-badge-right {
+					margin-right: 7px;
+				}
+				
+				&.sp-menu-badge-left {
+					margin-left: 7px;
+				}
+			}
+		}
+		
+		.sp-dropdown {
+			.sp-dropdown-items{		
+				.sp-has-child>a:after{
+					font-family: "Font Awesome 5 Free";
+font-weight: 900;
+					content: "\f104";
+					float: left;
+					margin-right: 7px;
+				}
+			}
+			
+			&.sp-menu-center{
+				margin-right: 45px;
+			}
+			
+			&.sp-dropdown-main {
+				&.sp-menu-right {
+					right: 0;
+				}
+				
+				&.sp-menu-full {
+					right: auto;
+					left: 0;
+				}
+				
+				&.sp-menu-left {
+					left: 0;
+				}
+			}
+			
+			&.sp-dropdown-sub {
+				right: 100%;
+			}
+		}
+	}
+	
+	#offcanvas-toggler {        
+		&.offcanvas-toggler-right {
+			float: left;
+			margin-right: 20px;
+		}
+		
+		&.offcanvas-toggler-left {
+			float: right;
+			margin-left: 20px;
+		}
+	}
+	
+	&.offcanvs-position-left{
+		.body-wrapper{
+			right: 0;
+		}
+		
+		.offcanvas-menu {
+			right: -$offcanvas_width;
+		}
+		
+		&.offcanvas-active {
+			.offcanvas-menu {
+				right: 0;
+			}
+			.body-wrapper{
+				right: $offcanvas_width;
+			}
+		}
+	}
+	
+	&.offcanvs-position-right{
+		.body-wrapper{
+			left: 0;
+		}
+		
+		.offcanvas-menu {
+			left: -$offcanvas_width;
+		}
+		
+		&.offcanvas-active {
+			.offcanvas-menu {
+				left: 0;
+			}
+			
+			.body-wrapper{
+				left: $offcanvas_width;
+			}
+		}
+	}
+	
+	.close-offcanvas {
+		left: 15px;
+	}
+	
+	.offcanvas-menu {
+		.offcanvas-inner {
+			.sp-module {
+				
+				ul {
+					> li {
+						&.menu-parent {
+							>a,
+							>.menu-separator {
+								>.menu-toggler {
+									left: 0;
+								}
+							}
+						}
+						
+						ul {
+							margin-right: 10px;
+						}
+					}
+				}
+			}
+		}
+	}
+
+
+
+
+	/***********************************************************************************************/
+	/**************************************  Shaper Stellar  ***************************************/
+	/*********************************************************************************************/
+
+	
+	//Global
+	.pull-right {
+		float: left!important;
+	}
+	.pull-left {
+		float: right!important;
+	}
+	.sppb-text-left {
+		text-align: right;
+	}
+	.sppb-text-right {
+		text-align: left;
+	}
+	.sppb-media > .pull-left {
+		margin-right: 0;
+		margin-left: 15px;
+	}
+	.form-links a {
+		margin-right: 0;
+		margin-left: 10px;
+	}
+	.sppb-slider-wrapper,
+	.owl-carousel {
+		direction: ltr;
+	}
+	.fa-chevron-right:before {
+		content: "\f053";
+	}
+	.fa-long-arrow-right:before,
+	.acymailing_module_form .acymailing_form .acysubbuttons:after,
+	.carpenter-service .sppb-addon-feature h2.sppb-feature-box-title:after {
+		content: "\f177";
+	}
+	.sppb-dropcap {
+		float: right;
+	}
+	.sppb-btn-primary:after,
+	.sppb-btn-secondary:after {
+		right: inherit;
+		left: 0;
+	}
+	.sppb-btn-primary,
+	.sppb-btn-secondary {
+		padding: 0 0 0 60px;
+	}
+	#mod-sp-simpleportfolio .sp-simpleportfolio-item .sp-vertical-middle > div, #sp-simpleportfolio .sp-simpleportfolio-item .sp-vertical-middle > div {
+		text-align: right;
+	}
+	.sppb-testimonial-pro .sppb-carousel-inner > .sppb-item {
+		text-align: right;
+		padding-left: 0;
+		padding-right: 150px;
+	}
+	.sppb-testimonial-pro .sppb-carousel-inner > .sppb-item > img {
+		left: inherit;
+		right: 0;
+	}
+	.sppb-testimonial-pro .sppb-carousel-control.left {
+		right: inherit;
+		left: 80px;
+	}
+	.sppb-testimonial-pro .sppb-carousel-control {
+		right: inherit;
+		left: 0;
+	}
+	.fa-angle-right:before {
+		content: "\f104";
+	}
+	.fa-angle-left:before {
+		content: "\f105";
+	}
+	.sppb-addon-articles-slider .customNavigation {
+		left: inherit;
+		right: -22%;
+	}
+	.customNavigation .sppbSlideNext {
+		float: left;
+	}
+	.sppb-addon-articles-slider .customNavigation .sppbSlideNext,
+	.sppb-addon-articles-slider .customNavigation .sppbSlidePrev {
+		margin-right: 0;
+		margin-left: 20px;
+	}
+	.sppb-optin-form.form-inline .email-wrap, .sppb-optin-form.form-inline .name-wrap {
+		padding-right: 0;
+		padding-left: 20px;
+	}
+	.sppb-addon-social-share.sppb-social-share-style-colored ul,
+	.sppb-addon-social-share.sppb-social-share-style-simple ul {
+		text-align: right;
+	}
+	.sp-tweet-item .date {
+		float: right;
+	}
+	#sp-footer #sp-footer2 {
+		text-align: left;
+	}
+	.sp-simpleportfolio .sp-simpleportfolio-meta {
+		float: right;
+		padding-left: 120px !important;
+		padding-right: 0 !important;
+	}
+	#sp-page-builder .achievement-widget.sixth-child, #sp-page-builder .achievement-widget.third-child,
+	#sp-page-builder .achievement-widget.sixth-child, #sp-page-builder .achievement-widget.sixth-child {
+		border-right-color: #e8e8e8 !important;
+	}
+	#sp-page-builder .achievement-widget.sixth-child, #sp-page-builder .achievement-widget.first-child,
+	#sp-page-builder .achievement-widget.sixth-child, #sp-page-builder .achievement-widget.fourth-child {
+		border-right-color: transparent;
+	}
+	.sppb-addon-person .sppb-person-social-icons {
+		left: inherit;
+		right: 25px;
+	}
+	.article-body .article-info .category-name {
+		left: inherit;
+		right: 40px;
+	}
+	.article-social-share {
+		float: left;
+	}
+	.sppb-addon-articles-headline {
+		.article-info {
+			position: relative;
+			left: 55%;
+		}
+	}
+	.sppb-addon-articles-slider .sppb-addon-article.item .sppb-article-details .sppb-readmore:after {
+		right: inherit;
+		left: 0;
+	}
+	.sppb-addon-articles-slider .sppb-addon-article.item .sppb-article-details .sppb-readmore {
+		padding-right: 0;
+		padding-left: 60px;
+	}
+}

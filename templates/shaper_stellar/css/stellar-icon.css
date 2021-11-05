@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'stellar-icon';
+  src:
+    url('../fonts/stellar.ttf?cag5sc') format('truetype'),
+    url('../fonts/stellar.woff?cag5sc') format('woff'),
+    url('../fonts/stellar.svg?cag5sc#stellar-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.stellar-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stellar-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.stellar-back-arrow-circular-symbol:before {
+  content: "\e927";
+}
+.stellar-right-arrow-circular-button:before {
+  content: "\e928";
+}
+.stellar-telephone:before {
+  content: "\e900";
+}
+.stellar-like:before {
+  content: "\e901";
+}
+.stellar-suitcase:before {
+  content: "\e902";
+}
+.stellar-arrows:before {
+  content: "\e903";
+}
+.stellar-speedometer:before {
+  content: "\e904";
+}
+.stellar-tool-2:before {
+  content: "\e905";
+}
+.stellar-cut:before {
+  content: "\e906";
+}
+.stellar-interface:before {
+  content: "\e907";
+}
+.stellar-tool-1:before {
+  content: "\e908";
+}
+.stellar-security:before {
+  content: "\e909";
+}
+.stellar-technology-1:before {
+  content: "\e90a";
+}
+.stellar-clock:before {
+  content: "\e90b";
+}
+.stellar-technology:before {
+  content: "\e90c";
+}
+.stellar-settings-1:before {
+  content: "\e90d";
+}
+.stellar-internet:before {
+  content: "\e90e";
+}
+.stellar-paint:before {
+  content: "\e90f";
+}
+.stellar-tool:before {
+  content: "\e910";
+}
+.stellar-add:before {
+  content: "\e911";
+}
+.stellar-cancel-1:before {
+  content: "\e912";
+}
+.stellar-clip:before {
+  content: "\e913";
+}
+.stellar-cancel:before {
+  content: "\e914";
+}
+.stellar-right-arrow:before {
+  content: "\e915";
+}
+.stellar-down-arrow:before {
+  content: "\e916";
+}
+.stellar-left-arrow:before {
+  content: "\e917";
+}
+.stellar-shopping-cart:before {
+  content: "\e918";
+}
+.stellar-settings:before {
+  content: "\e919";
+}
+.stellar-tag:before {
+  content: "\e91a";
+}
+.stellar-video:before {
+  content: "\e91b";
+}
+.stellar-video-camera:before {
+  content: "\e91c";
+}
+.stellar-speech-bubble:before {
+  content: "\e91d";
+}
+.stellar-file:before {
+  content: "\e91e";
+}
+.stellar-profile:before {
+  content: "\e91f";
+}
+.stellar-gallery:before {
+  content: "\e920";
+}
+.stellar-Awards:before {
+  content: "\e921";
+}
+.stellar-Call:before {
+  content: "\e922";
+}
+.stellar-Cup-of-Coffee:before {
+  content: "\e923";
+}
+.stellar-Location:before {
+  content: "\e924";
+}
+.stellar-Mail:before {
+  content: "\e925";
+}
+.stellar-Mobile-Design:before {
+  content: "\e926";
+}
+.stellar-Project-Finished:before {
+  content: "\e929";
+}
+.stellar-Search:before {
+  content: "\e92a";
+}
+.stellar-Team-Members:before {
+  content: "\e92b";
+}
+.stellar-User-Experience:before {
+  content: "\e92c";
+}
+.stellar-User-Interface:before {
+  content: "\e92d";
+}
+.stellar-Web-Design:before {
+  content: "\e92e";
+}
+.stellar-Web-Development:before {
+  content: "\e92f";
+}
+.stellar-Work-In-Progress:before {
+  content: "\e930";
+}
+.stellar-Working-Hour:before {
+  content: "\e931";
+}

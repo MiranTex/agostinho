@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="56px" viewBox="0 0 51 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>client_logo_inter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-841.000000, -3369.000000)">
+        <g id="Our-Clients" transform="translate(0.000000, 3096.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Client-Logos" transform="translate(217.000000, 273.000000)">
+                <g id="client_logo_inter" transform="translate(624.000000, 0.000000)">
+                    <path d="M27.6,55.2 C12.5,55.2 0.2,42.9 0.2,27.8 C0.2,12.7 12.5,0.4 27.6,0.4 C37.4,0.4 46,5.5 50.8,13.2 L47.8,16.5 C43.8,9.4 36.2,4.6 27.5,4.6 C14.7,4.6 4.3,15 4.3,27.8 C4.3,40.6 14.7,51 27.5,51 C36.2,51 43.8,46.2 47.8,39.1 L50.8,42.4 C46,50 37.4,55.2 27.6,55.2 Z" id="Shape"></path>
+                    <path d="M30.9,35.4 L30.9,29.1 L44.4,14 L44.6,13.8 C45.5,14.9 46.3,16.1 47,17.4 L44.4,20.3 L44.4,41.9 C43.2,43.4 41.8,44.7 40.2,45.8 L40.2,25 L30.9,35.4 Z" id="Shape"></path>
+                    <path d="M22.3,19.2 L22.3,25.2 L18.1,20.5 L18.1,12.5 L15.4,9.5 C18,7.7 21,6.5 24.3,6 L24.3,10.1 C23.6,10.2 23,10.4 22.3,10.6 L22.3,15.2 L34.7,15.2 L31,19.2 L22.3,19.2 Z" id="Shape"></path>
+                    <path d="M29.7,20.5 L29.7,49.7 C29,49.8 28.3,49.8 27.6,49.8 C26.9,49.8 26.2,49.8 25.5,49.7 L25.5,20.5 L29.7,20.5 Z" id="Shape"></path>
+                    <path d="M15,25 L15,45.7 C13.4,44.6 12,43.3 10.8,41.8 L10.8,20.3 L8.2,17.4 C8.9,16.1 9.7,14.9 10.6,13.8 L10.8,14 L24.4,29.1 L24.4,35.4 L15,25 Z" id="Shape"></path>
+                    <path d="M22.3,35 L22.3,49.1 C20.8,48.7 19.4,48.2 18.1,47.6 L18.1,30.3 L22.3,35 Z" id="Shape"></path>
+                    <path d="M25.5,14.1 L25.5,5.9 C26.2,5.8 26.9,5.8 27.6,5.8 C28.3,5.8 29,5.8 29.7,5.9 L29.7,14.1 L25.5,14.1 Z" id="Shape"></path>
+                    <path d="M30.9,10.1 L30.9,6 C34.2,6.5 37.2,7.7 39.8,9.5 L37.1,12.5 C35.3,11.3 33.2,10.5 30.9,10.1 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1339px" height="357px" viewBox="0 0 1339 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Pattern</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-39.000000, -4196.000000)">
+        <g id="Testimonials" transform="translate(0.000000, 4047.000000)">
+            <g id="Pattern" transform="translate(39.000000, 149.000000)">
+                <polyline id="Path-13" stroke="#979797" stroke-width="3" opacity="0.200000003" points="286 124.863281 286 115.899414 292.032227 116.964844 292.032227 108.749023 298.548828 108.749023 298.548828 101 305.753906 101"></polyline>
+                <polyline id="Path-13-Copy-2" stroke="#979797" stroke-width="3" opacity="0.200000003" transform="translate(183.128997, 74.483121) rotate(142.000000) translate(-183.128997, -74.483121) " points="173.252044 86.4147613 173.252044 77.4508941 179.28427 78.5163238 179.28427 70.3005035 185.800872 70.3005035 185.800872 62.55148 193.00595 62.55148"></polyline>
+                <polyline id="Path-13-Copy-3" stroke="#979797" stroke-width="3" opacity="0.200000003" transform="translate(1179.128997, 276.483121) rotate(142.000000) translate(-1179.128997, -276.483121) " points="1169.25204 288.414761 1169.25204 279.450894 1175.28427 280.516324 1175.28427 272.300503 1181.80087 272.300503 1181.80087 264.55148 1189.00595 264.55148"></polyline>
+                <polyline id="Path-13-Copy" stroke="#979797" stroke-width="3" opacity="0.200000003" transform="translate(1292.876953, 74.931641) scale(-1, -1) translate(-1292.876953, -74.931641) " points="1283 86.8632812 1283 77.8994141 1289.03223 78.9648438 1289.03223 70.7490234 1295.54883 70.7490234 1295.54883 63 1302.75391 63"></polyline>
+                <rect id="Rectangle-7" stroke="#979797" stroke-width="4" opacity="0.200000003" transform="translate(44.717777, 163.210968) rotate(-24.000000) translate(-44.717777, -163.210968) " x="30.717777" y="150.210968" width="28" height="26" rx="6"></rect>
+                <rect id="Rectangle-7-Copy-2" stroke="#979797" stroke-width="4" opacity="0.200000003" transform="translate(1262.717777, 248.210968) rotate(-24.000000) translate(-1262.717777, -248.210968) " x="1248.71778" y="235.210968" width="28" height="26" rx="6"></rect>
+                <rect id="Rectangle-7-Copy" stroke="#979797" stroke-width="4" opacity="0.200000003" transform="translate(108.717777, 338.210968) scale(-1, 1) rotate(-24.000000) translate(-108.717777, -338.210968) " x="94.717777" y="325.210968" width="28" height="26" rx="6"></rect>
+                <circle id="Oval-11" fill="#5D5D5D" opacity="0.300000012" cx="122" cy="261" r="7"></circle>
+                <circle id="Oval-11-Copy" fill="#5D5D5D" opacity="0.300000012" cx="4" cy="334" r="4"></circle>
+                <circle id="Oval-11-Copy-2" fill="#5D5D5D" opacity="0.400000006" cx="1335" cy="272" r="4"></circle>
+                <path d="M42.9560547,58.2932305 C48.3557943,54.551043 51.0556641,51.1213555 51.0556641,48.004168 C51.0556641,43.3283867 39.5561523,29.8820977 34.6689453,29.8820977 C31.4108073,29.8820977 27.8544922,32.0949883 24,36.5207695" id="Path-14" stroke="#979797" stroke-width="3" opacity="0.200000003"></path>
+                <path d="M165.758761,28.9200176 C171.1585,25.1778301 173.85837,21.7481426 173.85837,18.6309551 C173.85837,13.9551739 162.358858,0.508884831 157.471651,0.508884831 C154.213513,0.508884831 150.657198,2.72177546 146.802706,7.14755671" id="Path-14-Copy" stroke="#979797" stroke-width="3" opacity="0.200000003" transform="translate(160.330538, 14.714451) rotate(95.000000) translate(-160.330538, -14.714451) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
